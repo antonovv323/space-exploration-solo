@@ -1,0 +1,55 @@
+body {
+    font-family: "Orbitron", sans-serif;
+    text-align: center;
+    margin: 0;
+    color: white;
+    background-image: url("space-gif-and-logo/space-gif.webp");
+    background-size: cover;
+    height: 100vh;
+}
+
+#header {
+    padding: 25px 0 50px 0;
+}
+
+#spaceX-logo {
+    width: 120px;
+    background-color: #014b7e;
+    padding: 10px;
+    border: 3px ridge white;
+    box-shadow: 0 0 20px white;
+}
+
+#title {
+    text-shadow: 0 0 20px white;
+}
+
+#underline-word {
+    border-bottom: 3px solid white;
+}
+
+#apply-btn {
+    font-family: "Orbitron", sans-serif;
+    text-shadow: 0 0 20px white;
+    padding: 6px 16px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #014b7e;
+    color: white;
+    box-shadow: 0 0 20px white;
+    border: 3px ridge white;
+}
+
+#footer {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    background-color: #014b7e;
+    text-shadow: 0 0 20px white;
+    box-shadow: 0 0 20px white;
+}
+
